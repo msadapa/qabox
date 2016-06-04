@@ -1,5 +1,4 @@
-## QA Terms
-
+## Quality Assurance (QA) Terms
 
 - Conformance: Fulfillment by a product, process, systems, or service of a specified set of requirements.
 
