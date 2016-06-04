@@ -6,6 +6,7 @@
 
 - Specification: Document that prescribes requirements to be fulfilled by a product, process, or service.
 
+
 ### References:
 
 - <http://www.w3.org/QA/glossary>
